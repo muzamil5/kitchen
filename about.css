@@ -1,0 +1,84 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: "freight-sans-pro";
+}
+a{
+    color: black;
+    decoration: none;
+}
+
+
+.btn-outline-dark{
+    border-radius: 20px;
+}
+
+.first-col{
+    margin-top: 6em;
+}
+.first-col-par{
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+.head{
+    letter-spacing: 0.2em;
+    margin-top: 7em;
+    margin-bottom: 3em;
+}
+img{
+    margin-top: 5em;
+    margin-bottom: 7em;
+}
+.first-text{
+    display: block;
+    padding-left: 15em!important;
+    padding-right: 15em!important;
+    text-align: justify;
+    margin-top: 15em;
+    margin-bottom: 15em;
+}
+.secound-text{
+    display: block;
+    padding-left: 15em!important;
+    padding-right: 15em!important;
+    text-align: justify;
+    margin-top: 5em;
+}
+.third-text{
+    display: block;
+    padding-left: 20em!important;
+    padding-right: 20em!important;
+    text-align: justify;
+    margin-bottom: 7em;
+    margin-top: 7em;
+    letter-spacing: 0;
+}
+.row{
+    margin-top: 2em;
+    
+}
+h1{
+    color: red;
+    font-family: freight-big-pro;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 65px;
+    letter-spacing: .02em;
+    line-height: 1.25em;
+    text-transform: none;
+}
+h3{
+    color: red;
+    font-family: freight-big-pro;
+}
+.footer{
+    margin-bottom: 15em;
+}
+.footer1{
+    margin-bottom: 10em;
+}
+.nav-link:hover{
+    color: gray;
+}

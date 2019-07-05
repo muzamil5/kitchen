@@ -1,0 +1,88 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+a{
+    color: black;
+    decoration: none;
+}
+
+
+.btn-outline-dark{
+    border-radius: 20px;
+}
+body{
+    font-family: "freight-sans-pro";
+}
+.navbar{
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+}
+/* ----------------------------- */
+
+.head{
+    letter-spacing: 4px;
+    margin-bottom: 2em;
+}
+.display-4{
+    margin-bottom: 2em;
+}
+.space-letter{
+    font-family: freight-sans-pro;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    letter-spacing: .25em;
+    line-height: 2em;
+    text-transform: uppercase;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;    
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.col-sm{
+    margin-top: 10em;
+}
+h3 , h1{
+    color: red;
+    font-family: freight-big-pro;
+}
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+body{
+    font-family: freight-sans-pro;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16.5px;
+    letter-spacing: .02em;
+    line-height: 1.8em;
+    text-transform: none;
+    color: #000;
+}
+
+
+.footer-row{
+    margin-bottom: 10em;
+}
+.nav-link{
+    color: #000;
+}
+.footer:hover{
+    color: gray;
+}
+.fab:hover{
+    color: gray!important;
+}
+.top-nav:hover{
+    color: #000;
+}

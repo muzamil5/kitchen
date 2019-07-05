@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+a{
+    color: white;
+    decoration: none;
+}
+li{
+    color: white;
+}
+
+.fixed-center{
+    margin-bottom: 25em;
+}
+.about{
+    cursor: pointer;
+}
+.about:hover{
+    color: gray!important;
+}
+.btn-outline-light{
+    margin-right: 14px;
+    border-radius: 25px;
+    font-size: 12px;
+    padding: 10px
+}
+
+
+.btn-outline-dark{
+    border-radius: 20px;
+}
+
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color:gray;
+}
+.footer{
+    color: black;
+}
+.btn-sx{
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon{
+    height: 100px;
+    width: 70px;
+    
+}
+body{
+    font-family: "freight-sans-pro";
+}
