@@ -34,7 +34,7 @@ img{
     color: black;
 }
 .font:hover{
-    color:gray;
+    color:gray!important;
 }
 
 .footer:hover{

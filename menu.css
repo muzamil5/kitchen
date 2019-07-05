@@ -20,7 +20,9 @@ body{
     margin-bottom: 2em;
 }
 /* ----------------------------- */
-
+.font:hover{
+    color:gray;
+}
 .head{
     letter-spacing: 4px;
     margin-bottom: 2em;

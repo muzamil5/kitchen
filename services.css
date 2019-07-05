@@ -8,7 +8,9 @@ a{
     decoration: none;
 }
 
-
+.font:hover{
+    color:gray!important;
+}
 .btn-outline-dark{
     border-radius: 20px;
 }

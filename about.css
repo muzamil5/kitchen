@@ -9,7 +9,9 @@ a{
     color: black;
     decoration: none;
 }
-
+.font:hover{
+    color:gray;
+}
 
 .btn-outline-dark{
     border-radius: 20px;
